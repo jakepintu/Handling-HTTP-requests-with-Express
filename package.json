@@ -1,0 +1,19 @@
+{
+  "name": "handling-http-requests-with-express",
+  "version": "1.0.0",
+  "description": "Handling HTTP requests with Express",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakepintu/Handling-HTTP-requests-with-Express.git"
+  },
+  "author": "Mahendra Choudhary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakepintu/Handling-HTTP-requests-with-Express/issues"
+  },
+  "homepage": "https://github.com/jakepintu/Handling-HTTP-requests-with-Express#readme"
+}
